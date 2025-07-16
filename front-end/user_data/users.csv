@@ -1,0 +1,6 @@
+name,username,email,password_hash,gender,date_of_birth,relation_to_patient,country,state,hospital_name
+Fahema Begam Mohamed Raffic,fahema,mfahemabegam@gmail.com,b87c87b8f0d5123d5a31c610d2fcb779386d521842bf3eda509b78f2b4aac7b4,Female,2003-11-19,,India,Puducherry,cluny
+keerthana,keerthana,parthibankeerthana@gmail.com,3d440caea9019a85ea2652ed5f216d0d6647224dd2d47da262762801b6dd0ee0,Female,2003-12-01,,Australia,Queensland,clunny
+siva,siva,siva@gmail.com,ef3579480cf5130d6de41599ea3bd322dd4e0d1c4c06ade766ed55a016147e7f,Male,2025-05-08,Husband,United States,California,kanagi
+arun,arun,arun@gmail.com,fff8113dbf02f0a44203cf8208a00aa098734ddc04c21060acc13807044f41ff,Male,2025-05-06,Father,India,Bihar,clunny
+josika,josika,josika@gmail.com,140f30285626a0683d9d7692e809f4e428d19ee4c9f93470b11aed01f1bdc62e,Female,2025-05-06,None,United Kingdom,Scotland,clunny hospital

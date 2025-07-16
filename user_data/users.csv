@@ -1,0 +1,2 @@
+name,username,email,password_hash,gender,date_of_birth,relation_to_patient,country,state,hospital_name
+fahema,fahe,fahema@gmail.com,b87c87b8f0d5123d5a31c610d2fcb779386d521842bf3eda509b78f2b4aac7b4,Female,2003-11-19,None,India,Puducherry,cluny
